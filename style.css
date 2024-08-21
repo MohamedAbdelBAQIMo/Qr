@@ -1,12 +1,7 @@
 body{
     background-color: hsl(212, 45%, 89%);
 }
-#main{
-    margin-top: 100px;
-    padding: 10px;
-    text-align: center;
-    background-color: hsl(0, 0%, 100%)
-}
+
 #main h1,p{
     font-family: outfit;    
 }
